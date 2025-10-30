@@ -1,2 +1,2 @@
-# Add-two-sun
+# Add-two-numbers
 Add two sun
